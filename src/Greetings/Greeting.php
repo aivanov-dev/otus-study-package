@@ -11,6 +11,6 @@ class Greeting
      */
     public function sayHello(string $name = 'world')
     {
-        return "Hello, {$name}}!";
+        return "Hello, {$name}!";
     }
 }
